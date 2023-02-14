@@ -25,35 +25,35 @@
 ## Technologies: 🌱
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-<a href="" style="display: block; width: 50px; height: 50px;">
-<img style="display: block; width: 100%; height: 100%; object-fit: contain;" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+<a href="">
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 </a>
-<a href="" style="display: block; width: 50px; height: 50px;">
-<img style="display: block; width: 100%; height: 100%; object-fit: contain;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
+<a href="">
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
 </a>
-<a href="" style="display: block; width: 50px; height: 50px;">
-<img style="display: block; width: 100%; height: 100%; object-fit: contain;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+<a href="">
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 </a>
-<a href="" style="display: block; width: 50px; height: 50px;">
-<img style="display: block; width: 100%; height: 100%; object-fit: contain;" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" />
+<a href="">
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" />
 </a>
-<a href="" style="display: block; width: 50px; height: 50px;">
-<img style="display: block; width: 100%; height: 100%; object-fit: contain;" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
+<a href="">
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 </a>
-<a href="" style="display: block; width: 50px; height: 50px;">
-<img style="display: block; width: 100%; height: 100%; object-fit: contain;" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" />
+<a href="">
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" />
 </a>
-<a href="" style="display: block; width: 50px; height: 50px;">
-<img style="display: block; width: 100%; height: 100%; object-fit: contain;" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+<a href="">
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
 </a>
-<a href="" style="display: block; width: 50px; height: 50px;">
-<img style="display: block; width: 100%; height: 100%; object-fit: contain;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+<a href="">
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 </a>
-<a href="" style="display: block; width: 50px; height: 50px;">
-<img style="display: block; width: 100%; height: 100%; object-fit: contain;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+<a href="">
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 </a>
-<a href="" style="display: block; width: 50px; height: 50px;">
-<img style="display: block; width: 100%; height: 100%; object-fit: contain;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+<a href="">
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
 </a>
 
 </div>
