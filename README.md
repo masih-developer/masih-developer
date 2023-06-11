@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Hello there! 👋<br>- I'm eagerly awaiting your project requests, Feel free to reach out to me via the social media links provided below.<br><br>- Let's get things done together!
+- Hello there! 👋<br>- I'm eagerly awaiting your project requests, Feel free to reach out to me via the social media links provided below.<br>- Let's get things done together!
 
 
 ## 🌐 Socials:
