@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100057711233366&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masih_developer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masih-abedini-70ab89236/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/masih_developer) 
 
 # 🚀 Languages, Technologies and Tools :
-<div style="display:flex;align-items:center;gap:10px">
+<div align="center">
      <a target="_blank" href="https://react.dev/">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/react.svg" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;display:block;">
  </a>
