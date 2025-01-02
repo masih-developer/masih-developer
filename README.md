@@ -10,7 +10,7 @@
 # 🚀 Languages, Technologies and Tools :
 <div style="display:flex;align-items:center;gap:10px">
      <a href="https://react.dev/">
-    <img src="https://camo.githubusercontent.com/d764e0d1b0bb6fc6e65157b3c98b9e203a13a17390309fad633406c3324dbfb2/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;display:block;">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/react.svg" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;display:block;">
  </a>
  <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;display:block;"> </a>
  <a href="https://nextjs.org" target="_blank" rel="nofollow"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="redux" width="40" height="40" style="max-width: 100%; background-color: white;border-radius:5px;display:block;"> </a>
