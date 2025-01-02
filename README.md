@@ -9,7 +9,7 @@
 
 # 🚀 Languages, Technologies and Tools :
 <div style="display:flex;align-items:center;gap:10px">
-     <a href="https://react.dev/" target="_blank">
+     <a target="_blank" href="https://react.dev/">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/react.svg" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;display:block;">
  </a>
  <a href="https://redux.js.org" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;display:block;"> </a>
