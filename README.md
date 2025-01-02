@@ -10,7 +10,7 @@
 # 🚀Techs:
 <div>
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/react.svg" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;display:block;">
- <a href="https://redux.js.org" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;display:block;"> </a>
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/redux.svg" alt="redux" width="40" height="40">
  <a href="https://nextjs.org" target="_blank" rel="nofollow"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="redux" width="40" height="40" style="max-width: 100%; background-color: white;border-radius:5px;display:block;"> </a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="redux" width="40" height="40" style="max-width: 100%;display:block;"></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;display:block; border-radius:6px; overflow: hidden;"></a>
