@@ -8,10 +8,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100057711233366&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masih_developer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masih-abedini-70ab89236/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/masih_developer) 
 
 # 🚀Techs:
-<div align="center">
-     <a target="_blank" href="https://react.dev/">
+<div>
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/react.svg" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;display:block;">
- </a>
  <a href="https://redux.js.org" target="_blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;display:block;"> </a>
  <a href="https://nextjs.org" target="_blank" rel="nofollow"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="redux" width="40" height="40" style="max-width: 100%; background-color: white;border-radius:5px;display:block;"> </a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="redux" width="40" height="40" style="max-width: 100%;display:block;"></a>
