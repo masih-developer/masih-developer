@@ -11,7 +11,7 @@
 <div class="hello">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/react.svg" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;display:block;">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/redux.svg" alt="redux" width="40" height="40">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nextjs.svg" alt="redux" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nextjs.jpg" alt="redux" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/typescript.svg" alt="redux" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/javascript.svg" alt="javascript" width="40" height="40">
  <a href="https://tanstack.com/query" target="_blank" rel="nofollow"> <img src="https://quoininc.com/media_files/quoin/the-lab/emblem-light.svg" alt="redux" width="40" height="40" style="max-width: 100%;display:block;"></a>
