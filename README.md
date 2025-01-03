@@ -14,7 +14,7 @@
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nextjs.jpg" alt="nextjs" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/typescript.svg" alt="typescript" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/javascript.svg" alt="javascript" width="40" height="40">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/tailwindcss.svg" alt="tailwindcss" width="30" height="45">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/tailwindcss.svg" alt="tailwindcss" width="50" height="35">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/tanstack-query.svg" alt="tanstack query" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nodejs.svg" alt="nodejs" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/mongodb.svg" alt="mongodb" width="40" height="40">
