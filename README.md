@@ -18,6 +18,7 @@
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nodejs.svg" alt="redux" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/mongodb.svg" alt="redux" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/mysql.svg" alt="redux" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/tailwindcss.svg" alt="redux" width="40" height="40">
 </div>
 
 # 📊 GitHub Stats:
