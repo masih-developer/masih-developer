@@ -10,7 +10,7 @@
 # 🚀Techs:
 <div class="hello">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/react.svg" alt="reactjs" width="40" height="40">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/redux.svg" alt="reduxjs" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/redux.svg" alt="reduxjs" width="40" height="40" style="margin-left:20px;">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nextjs.jpg" alt="nextjs" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/typescript.svg" alt="typescript" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/javascript.svg" alt="javascript" width="40" height="40">
