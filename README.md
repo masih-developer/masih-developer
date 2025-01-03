@@ -9,15 +9,15 @@
 
 # 🚀Techs:
 <div class="hello">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/react.svg" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;display:block;">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/react.svg" alt="reactnative" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/redux.svg" alt="redux" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nextjs.jpg" alt="redux" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/typescript.svg" alt="redux" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/javascript.svg" alt="javascript" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/tanstack-query.svg" alt="redux" width="40" height="40">
- <a href="https://nodejs.org/en" target="_blank" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="redux" width="40" height="40" style="max-width: 100%;display:block;"></a>
- <a href="https://nestjs.com" target="_blank" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="redux" width="40" height="40" style="max-width: 100%;display:block;"></a>
- <a href="https://www.mongodb.com" target="_blank" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="redux" width="40" height="40" style="max-width: 100%;display:block;"></a>
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nodejs.svg" alt="redux" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/mongodb.svg" alt="redux" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/mysql.svg" alt="redux" width="40" height="40">
 </div>
 
 # 📊 GitHub Stats:
