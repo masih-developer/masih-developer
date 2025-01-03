@@ -9,16 +9,16 @@
 
 # 🚀Techs:
 <div class="hello">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/react.svg" alt="reactnative" width="40" height="40">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/redux.svg" alt="redux" width="40" height="40">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nextjs.jpg" alt="redux" width="40" height="40">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/typescript.svg" alt="redux" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/react.svg" alt="reactjs" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/redux.svg" alt="reduxjs" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nextjs.jpg" alt="nextjs" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/typescript.svg" alt="typescript" width="40" height="40">
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/javascript.svg" alt="javascript" width="40" height="40">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/tanstack-query.svg" alt="redux" width="40" height="40">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nodejs.svg" alt="redux" width="40" height="40">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/mongodb.svg" alt="redux" width="40" height="40">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/mysql.svg" alt="redux" width="40" height="40">
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/tailwindcss.svg" alt="redux" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/tailwindcss.svg" alt="tailwindcss" width="30" height="45">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/tanstack-query.svg" alt="tanstack query" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nodejs.svg" alt="nodejs" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/mongodb.svg" alt="mongodb" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/mysql.svg" alt="mysql" width="40" height="40">
 </div>
 
 # 📊 GitHub Stats:
