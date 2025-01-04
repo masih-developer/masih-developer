@@ -13,7 +13,7 @@
     &nbsp;
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/redux.svg" alt="reduxjs" width="40" height="40">
     &nbsp;
-    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nextjs.jpg" alt="nextjs" width="40" height="40">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/nextjs.svg" alt="nextjs" width="40" height="40">
     &nbsp;
     <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/typescript.svg" alt="typescript" width="40" height="40">
     &nbsp;
