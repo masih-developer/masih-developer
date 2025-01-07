@@ -1,7 +1,4 @@
-# 💫 About Me:
-- Hi there! 👋
-    - I'm eagerly awaiting your project requests, Feel free to reach out to me via the social media links provided below.
-    - Let's get things done together!
+<h1 align="center">MASIH-DEVELOPER</h1>
 
 
 ## 🌐 Socials:
