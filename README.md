@@ -1,4 +1,8 @@
-<h1 align="center">MASIH-DEVELOPER</h1>
+<div align="center">
+    <img src="https://github.com/masih-developer/masih-developer/blob/main/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" height="200" />
+    <br>
+    <h1>MASIH DEVELOPER</h1>
+</div>
 
 
 ## 🌐 Socials:
