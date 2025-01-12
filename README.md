@@ -1,3 +1,12 @@
+# Hi there, I'm Masih Abedini 👋  
+**(a.k.a. Masih Developer)**  
+
+I've been crafting web experiences for **5+ years**, starting my journey in **2020**. 🚀  
+As a **freelancer**, I specialize in turning ideas into reality. 💻  
+Currently, I'm pursuing a degree in **Computer Engineering** and constantly leveling up my skills. 🌱  
+
+✨ Let's collaborate and build something amazing together!
+
 <div align="center">
         <img src="https://github.com/masih-developer/masih-developer/blob/main/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" height="200" />
         <br>
