@@ -12,7 +12,6 @@ Currently, I'm pursuing a degree in **Computer Engineering** and constantly leve
         <br>
         <h1>MASIH DEVELOPER</h1>
         <br>
-        <br>
 </div> 
 <div align="center">
                 <img src="https://github.com/masih-developer/masih-developer/blob/main/techs/react.svg" alt="reactjs" width="40" height="40">
