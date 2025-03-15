@@ -36,3 +36,6 @@ Currently, I'm pursuing a degree in **Computer Engineering** and constantly leve
                 <br>
                 <img src="https://github.com/masih-developer/masih-developer/blob/main/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 </div>
+<div align="center">
+        <img src="https://profile-counter.glitch.me/%7Bmasih-developer%7D/count.svg" />
+</div>
